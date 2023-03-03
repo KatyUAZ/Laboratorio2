@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Laboratorio No.2</string>
+    <string name="insectos_titulo">Insectos</string>
+    <string name="abeja">Abeja</string>
+    <string name="insecto_abeja">Los antófilos (Anthophila, del griego ‘que aman las flores’), conocidos comúnmente como abejas, son un clado de insectos himenópteros, sin ubicación en categoría taxonómica,dentro de la superfamilia Apoidea. Se trata de un linaje monofilético con más de 20 000 especies conocidas.
+        \n\n<b>Las abejas, al igual que las hormigas, evolucionaron a partir de himenópteros aculeados</b>. Los antepasados de las abejas estaban relacionados con la familia Crabronidae y eran depredadores de insectos. Es posible que las primeras abejas se hayan alimentado del polen que cubría a algunasde sus presas y que, gradualmente, hayan empezado a alimentar a sus crías con polen en lugar de insectos.
+        \n\nHay muchas más especies que aún no han sido descritas. Se las encuentra en todos los continentes, excepto en la Antártida. Están en todos los hábitats donde hay plantas con flores (angiospermas).
+        \n\nEstán adaptadas para alimentarse de polen y néctar, usando el primero fundamentalmente como alimento para las larvas y el segundo como material energético.
+        \n\nLa especie más conocida es la abeja doméstica (Apis mellifera), a veces simplemente llamada “abeja”; esta especie es un insecto social que vive en enjambres formados por tres clases de individuos: reina, obreras y zánganos; sin embargo, la mayoría de las especies de abejas son solitarias, es decir, que no forman enjambres.
+    </string>
+    <string name="mariquita">\n\nMariquita</string>
+    <string name="insecto_mariquita">Los coccinélidos (Coccinellidae en latín) son una familia de insectos coleópteros de la superfamilia Cucujoidea, conocidos comúnmente como mariquitas, vaquitas de San Antonio o catarinas.
+        \n\n<b>Tienen el cuerpo redondeado y con frecuencia coloraciones aposemáticas brillantes</b>, la coloración presenta alta variabilidad intraespecífica, controlada por cambios en un solo gen. Muchas especies se alimentan de pulgones, por lo que contribuyen a controlar estas plagas.
+        \n\nLos coccinélidos a menudo tienen colores llamativos como amarillo, naranja o rojo con pequeñas manchas negras en las cubiertas de las alas, y las patas, cabezas y antenas negras. Sin embargo, existe una gran variación en estos patrones de color. Por ejemplo, una minoría de especies, como Vibidia duodecimguttata, tiene manchas blanquecinas sobre un fondo marrón.
+        \n\nLa mayoría de los coccinélidos tienen cuerpos redondos a elípticos en forma de cúpula con seis patas cortas. Dependiendo de la especie, pueden tener manchas, rayas o ninguna marca. Los coccinélidos de siete puntos son de color rojo o naranja con tres puntos a cada lado y uno en el medio; tienen una cabeza negra con manchas blancas en cada lado.
+        \n\nLos coccinélidos se encuentran por todo el mundo. Hay aproximadamente 6000 especies en 360 géneros de las cuales 475 son norteamericanas y se encuentran distribuidas en 57 géneros. Generalmente habitan en plantas donde se encuentran sus presas, como los pulgones, pulgas, moscas o áfidos.
+    </string>
+</resources>
